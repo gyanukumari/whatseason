@@ -2,7 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 
 const SeasonDisplay = ()=>{
-    return <div>Hi there</div>
+    return <div>Hi SeasonDisplay</div>
 }
 
 export default SeasonDisplay;
